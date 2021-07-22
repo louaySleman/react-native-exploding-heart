@@ -1,0 +1,38 @@
+{
+  "name": "react-native-exploding-heart",
+  "version": "1.0.0",
+  "description": "with this package you can have the twitter animation heart inside your react native app !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lottie-react-native": "^4.0.2"
+  },
+  "keywords": [
+    "react-native",
+    "boundaries",
+    "react-native-exploding-heart",
+    "react-native-exploding",
+    "exploding",
+    "heart",
+    "twitter",
+    "heart",
+    "animation",
+    "lottie"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louaySleman/react-native-exploding-heart.git"
+  },
+  "author": {
+    "email": "louayakram12@hotmail.com",
+    "name": "Louay Sleman"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://https://github.com/louaySleman/react-native-exploding-heart/issues"
+  },
+  "homepage": "https://https://github.com/louaySleman/react-native-exploding-heart#readme"
+}
