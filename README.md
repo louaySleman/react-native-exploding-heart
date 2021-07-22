@@ -14,6 +14,7 @@
 </p>
 
 ## Get Started
+<img src="https://raw.githubusercontent.com/louaySleman/react-native-exploding-heart/master/assets/1.gif" style="width: 30%" />
 
 ### Installation
 
