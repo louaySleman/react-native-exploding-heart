@@ -17,6 +17,7 @@
 <p style="width: 30%">
 <img src="https://raw.githubusercontent.com/louaySleman/react-native-exploding-heart/master/assets/1.gif" />
 </p>
+
 ### Installation
 
 ```js
